@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="11307" started-at="2019-12-04T17:26:03 CET" finished-at="2019-12-04T17:26:14 CET">
+    <groups>
+    </groups>
+    <test name="MytheresaProject" duration-ms="11307" started-at="2019-12-04T17:26:03 CET" finished-at="2019-12-04T17:26:14 CET">
+      <class name="UserSearch">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:UserSearch@ae45eb6]" name="SetUp" is-config="true" duration-ms="6773" started-at="2019-12-04T17:26:03 CET" finished-at="2019-12-04T17:26:10 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="testUserSearch()[pri:0, instance:UserSearch@ae45eb6]" name="testUserSearch" duration-ms="3423" started-at="2019-12-04T17:26:10 CET" finished-at="2019-12-04T17:26:13 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:UserSearch@ae45eb6]" name="tearDown" is-config="true" duration-ms="1068" started-at="2019-12-04T17:26:13 CET" finished-at="2019-12-04T17:26:14 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- UserSearch -->
+    </test> <!-- MytheresaProject -->
+  </suite> <!-- Default Suite -->
+</testng-results>
